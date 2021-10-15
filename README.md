@@ -1,7 +1,7 @@
 ## My Motivation
 
 - 👋 Hi, I’m @charlestsang 
-- 👀 I’m enthusiastic in Data Science and business analytics. I became a data anlyst in a market research company since 2013. From then on, I have been working on various positions and in different stream fields of data, different project experience within data science. The more I work with data, the more I can recognize the scope of data keep enlarging. 
+- 👀 I’m enthusiastic in Data Science and business analytics. I became a data anlyst in a market research company since 2013. From then on, I have been working on various positions and in different stream fields of data, wich give me many different project experiences within data science. The more I work with data, the more I can recognize the scope of data keep enlarging. 
 
 - Since the data science area has been evolving over time, it is hard to use a solid definition to define what's data scientist. However, as more and more people(expecially more with a phd degree from various fields) enter this indutry, the bar has been raised higher. Though with a working title as "data scientist", I still feel less comfortable as being named a real "scientist". Therefore, I made up my mind to keep learning and iterate my knowledge over data sicence. 
 
