@@ -21,8 +21,9 @@
 
 
 ----
-## Environment and tools
-- Anaconda
+## Environment and tools (IDE)
+- Anaconda (https://www.anaconda.com/products/individual)
+  
 - JupyterLab (desktop)
 
 ----
