@@ -29,7 +29,15 @@
 ----
 ## Resource
 
+- Reading from blogs: Towards data science (https://towardsdatascience.com/) Many data scientists, students, professionals have been sharing with their blogs. Here is a very useful place for me to get update on the industry. It is very common read and learn from each others on what kind of practises are happening accross industries.
+
+- Resouces on Youtube:
+
+ -> StatQuest with Josh Starmer : https://www.youtube.com/c/joshstarmer/playlists
+
+
 ---- 
 ## Topic of Study
+
 
 
