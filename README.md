@@ -26,6 +26,7 @@
   
 - JupyterLab (desktop)
 
+- VScode
 ----
 ## Resource
 
